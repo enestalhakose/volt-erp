@@ -1,6 +1,4 @@
-[README.md](https://github.com/user-attachments/files/32951548/README.md)
 # ⚡ VOLT ERP
-
 Küçük ve orta ölçekli işletmeler için geliştirdiğim masaüstü **ERP (kurumsal kaynak planlama)** uygulaması. Stok, cari hesap, satış/alış faturası, tahsilat/ödeme ve raporlama süreçlerini tek bir uygulamada, rol tabanlı yetkilendirmeyle yönetir.
 
 Python standart kütüphanesi dışında hiçbir bağımlılığı yoktur. Kurulum gerektirmez, tek dosyadan çalışır.
