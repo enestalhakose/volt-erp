@@ -3,7 +3,7 @@ Küçük ve orta ölçekli işletmeler için geliştirdiğim masaüstü **ERP (k
 
 Python standart kütüphanesi dışında hiçbir bağımlılığı yoktur. Kurulum gerektirmez, tek dosyadan çalışır.
 
-![Gösterge paneli](ekran_goruntuleri/gosterge_paneli.png)
+   ![Gösterge paneli](gosterge_paneli.png)
 
 ## Özellikler
 
@@ -17,8 +17,7 @@ Python standart kütüphanesi dışında hiçbir bağımlılığı yoktur. Kurul
 | **Raporlar** | Stok değeri, kritik stok, cari bakiye, aylık satış özeti, en çok satan ürünler. Tümü Excel uyumlu CSV olarak dışa aktarılabilir |
 | **Kullanıcılar** | Yönetici, Muhasebe, Satış ve Depo rolleri; geçici şifre ve ilk girişte zorunlu şifre değişimi |
 | **İşlem kaydı** | Giriş denemeleri, fatura, iptal ve stok düzeltmeleri gibi tüm kritik işlemlerin kim/ne zaman kaydı |
-
-![Satış faturası](ekran_goruntuleri/satis_faturasi.png)
+   ![Satış faturası](satis_faturasi.png)
 
 ## Teknik tasarım
 
